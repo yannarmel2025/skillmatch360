@@ -71,9 +71,10 @@ REQUIRED SECTIONS:
 ### Key Features <a name="key-features"></a>
 
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- [ ] **Comprehensive Candidate Assessments**
+- [ ] **Detailed Skill Reports**
+- [ ] **User-friendly Interfaces**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,7 +84,7 @@ REQUIRED SECTIONS:
 
 
 
-- [Live Demo Link](https://tocome.com)
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,8 +108,8 @@ Clone this repository to your desired folder:
 
 ```sh
  
-  git clone git@github.com:piercel2025/SkillMatch360.git
-  cd SkillMatch360
+  git clone git@github.com:piercel2025/skillmatch360.git
+   cd skillmatch360
 ```
 
 
@@ -151,9 +152,10 @@ render
 
 
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Real-time Feedback**
+- [ ] **Skill Analysis**
+- [ ] **Instant Recruitment Efficiency**
+- [ ] **Interactive Tests**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
