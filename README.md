@@ -40,11 +40,11 @@ REQUIRED SECTIONS:
 
 
 
-# 📖 [Fitenergie] <a name="about-project"></a>
+# 📖 [skillmatch360] <a name="about-project"></a>
 
 
 
-**[Fitenergie]** is a website that promote differents produits on the instagram social media platform
+ **skillmatch360** is an innovative and dynamic solution designed to streamline the hiring process through practical, real-time evaluations. It combines interactive tests, skills analysis, and instant feedback to revolutionize recruitment, ensuring that companies can find the best talent efficiently. With features like comprehensive candidate assessments, detailed skill reports, and user-friendly interfaces, RecruitmentPlatform aims to make hiring both effective and engaging.
 
 ## 🛠 Built With <a name="built-with"></a>
 
