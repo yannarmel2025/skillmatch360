@@ -359,6 +359,7 @@ DEPENDENCIES
   propshaft
   puma (>= 5.0)
   rails (~> 8.0.1)
+  railties
   rubocop-rails-omakase
   selenium-webdriver
   solid_cable
@@ -371,4 +372,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   2.6.3
+   2.6.2
