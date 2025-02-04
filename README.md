@@ -44,7 +44,7 @@ REQUIRED SECTIONS:
 
 
 
- **skillmatch360** is an innovative and dynamic solution designed to streamline the hiring process through practical, real-time evaluations. It combines interactive tests, skills analysis, and instant feedback to revolutionize recruitment, ensuring that companies can find the best talent efficiently. With features like comprehensive candidate assessments, detailed skill reports, and user-friendly interfaces, RecruitmentPlatform aims to make hiring both effective and engaging.
+ **skillmatch360** is an innovative and dynamic solution designed to streamline the hiring process through practical, real-time evaluations. It combines interactive tests, skills analysis, and instant feedback to revolutionize recruitment, ensuring that companies can find the best talent efficiently. With features like comprehensive candidate assessments, detailed skill reports, and user-friendly interfaces, skillmatch360 aims to make hiring both effective and engaging.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -83,7 +83,7 @@ REQUIRED SECTIONS:
 
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://tocome.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ Clone this repository to your desired folder:
 ```sh
  
   git clone git@github.com:piercel2025/SkillMatch360.git
-   cd SkillMatch360
+  cd SkillMatch360
 ```
 
 
