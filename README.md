@@ -40,7 +40,7 @@ REQUIRED SECTIONS:
 
 
 
-# 📖 [skillmatch360] <a name="about-project"></a>
+# 📖 **skillmatch360** <a name="about-project"></a>
 
 
 
