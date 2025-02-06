@@ -1,2 +1,5 @@
-<h1>Candidates#show</h1>
-<p>Find me in app/views/candidates/show.html.erb</p>
+<h1><%= @candidate.name %></h1>
+  <p>Email: <%= @candidate.email %></p>
+  <p>Profile: <%= @candidate.profile %></p>
+  <%= link_to 'Edit', edit_candidate_path(@candidate) %>
+  <%= link_to 'Back', candidates_path %>

@@ -1,0 +1,19 @@
+@import 'components/buttons';
+@import 'components/nav';
+@import 'layouts/header';
+@import 'layouts/footer';
+@import 'pages/home';
+
+/* Media Queries for Responsive Design */
+@media (max-width: 768px) {
+  header, nav ul, main, footer {
+    padding: 15px;
+  }
+}
+
+@media (min-width: 769px) {
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+}

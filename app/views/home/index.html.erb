@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Skillmatch360</title>
+  <%= stylesheet_link_tag 'application', media: 'all' %>
+  <%= javascript_include_tag 'application' %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Welcome to Skillmatch360</h1>
+      <nav>
+        <ul>
+          <li><%= link_to 'Home', root_path %></li>
+          <li><%= link_to 'Candidates', candidates_path %></li>
+          <li><%= link_to 'Assessments', assessments_path %></li>
+          <li><%= link_to 'Skills', skills_path %></li>
+          <li><%= link_to 'Reports', skill_reports_path %></li>
+          <li><%= link_to 'Feedback', feedbacks_path %></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <h2>Your Path to Efficient Hiring Starts Here</h2>
+      <p>Explore our features and find the best talent for your team.</p>
+      <p><%= link_to 'Get Started', new_user_registration_path, class: 'btn btn-primary' %></p>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Skillmatch360. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -109,7 +109,7 @@ Clone this repository to your desired folder:
 ```sh
  
   git clone git@github.com:piercel2025/skillmatch360.git
-   cd skillmatch360
+  cd skillmatch360
 ```
 
 
